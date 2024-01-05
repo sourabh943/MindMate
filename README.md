@@ -1,6 +1,6 @@
 # MindMate
 MindMate is a mental health conversational chatbot with which you can talk in order to talk out about your stressed life. The chatbot is built with google dialogflow.
-Click <a href="https://sourabh943.github.io/MindMate//">here</a> to enjoy the app.
+Click <a href="https://sourabh943.github.io/MindMate/index.html">here</a> to enjoy the app.
 
 <img src="screenshots/ss4.PNG">
 
